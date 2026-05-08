@@ -2,6 +2,7 @@
 play list
 
   it should be able to add new songs to the already existing 3 from Michael Jackson and search these songs by id if you want to see one at a time and display them with thier artists in this case MJ only 
-  ,after adding it should also be able to  delete songs and give a little descriptio ,after chosing any of this u can return to choose again all by switch case(if it works:update it didnt work)
+  ,after adding it should also be able to  delete songs ,after chosing any of this u can return to choose again all by switch case(if it works:update it didnt work)
+  after remembering getline and learning ignore commands i changed the program to accept spaces between words. tomorrow or when i feel like it ill add the sorting feature if i actually figure out how to and update an already existing song
 
-  the previous will be done using structures and functions mainly as you dr moh requested.
+  the previous will be done using structures and functions and arrays mainly as you dr moh requested.
